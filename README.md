@@ -1,1 +1,2 @@
-# task1
+Project Name - Tata Steel machine performance analysis
+This project embarks on a detailed exploratory data analysis (EDA) of Tata Steel's operational dataset, aiming to extract valuable insights that can inform strategic business decisions. Through an in-depth examination of trends, patterns, and correlations, we strive to enhance the understanding of key operational factors affecting efficiency and performance.
